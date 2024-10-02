@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="btn_mayorMenor">#124500</color>
+    <color name="btn_orderAscDesc">#004CFF</color>
+    <color name="btn_borrar">#FF0000</color>
+    <color name="btn_textos">#FFFFFFFF</color>
+    <color name="str_Numeros">#FF8400</color>
+</resources>

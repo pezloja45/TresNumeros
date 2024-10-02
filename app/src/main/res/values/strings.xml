@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TresNumeros</string>
+    <string name="str_num1">Número 1: </string>
+    <string name="str_num2">Número 2: </string>
+    <string name="str_num3">Número 3: </string>
+    <string name="str_hintNum">"Introduzca un número entero"</string>
+    <string name="btn_mayor">MENOR</string>
+    <string name="btn_menor">MAYOR</string>
+    <string name="btn_ordAsc">ORD ASC</string>
+    <string name="btn_ordDesc">ORD DESC</string>
+    <string name="btn_borrar">BORRAR</string>
+</resources>
